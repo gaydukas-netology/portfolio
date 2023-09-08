@@ -7,6 +7,5 @@ Accoarding education programm I have to know next topic:
 - issues
 - pull request
 - GitHub pages
-- Git commands
 
 So, if you read this text I have done it ;-)
